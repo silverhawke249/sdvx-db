@@ -1,6 +1,6 @@
 # sdvx-db
 
-SDVX songs database, used heavily by `pk-bot` and `sdvx-score-viewer`.
+SDVX songs database, used heavily by `pk-bot` and `sdvx-score-viewer`. Contents of the database can be viewed [over here](https://silverhawke.xyz/sdvx-db/).
 
 ## Database schema
 
